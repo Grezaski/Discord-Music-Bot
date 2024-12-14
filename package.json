@@ -1,0 +1,32 @@
+{
+  "name": "music-template",
+  "description": "Gud music bot.",
+  "version": "2.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@iamtraction/google-translate": "^2.0.1",
+    "ascii-table": "^0.0.9",
+    "axios": "^1.7.7",
+    "colors": "^1.4.0",
+    "common-tags": "^1.8.2",
+    "discord.js": "^14.12.1",
+    "express": "^4.19.2",
+    "moment": "^2.30.1",
+    "mongoose": "^7.4.5",
+    "ms": "^2.1.3",
+    "musicard": "^2.0.5",
+    "riffy": "^1.0.7-rc.1",
+    "zydenmusiccard": "github:Pappu100code/zydenmusiccard"
+  },
+  "keywords": [
+    "discord-handler",
+    "discord.js"
+  ],
+  "type": "commonjs",
+  "author": "Grezaski",
+  "license": "MIT"
+}
