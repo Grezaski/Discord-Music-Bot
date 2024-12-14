@@ -44,7 +44,7 @@ A feature-rich and easy-to-use **Discord Music Bot** built with **Node.js**, des
    ```bash
    npm start
    or
-   node .```
+   node .
 
 ---
 
